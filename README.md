@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akosActuary
-- 👀 I’m interested in maths, R, automation and auctuarial stuff
+- 👀 I’m interested in maths, R, automation and actuarial stuff
 - 🌱 I’m currently learning R
 - #💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
